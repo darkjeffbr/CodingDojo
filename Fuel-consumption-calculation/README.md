@@ -15,22 +15,27 @@ The communication flow is as follow:
 
 ![](requirements/Fuel-Consumption-Calculation-Service-1.png)
 
-## Example of data interchanged
+## Example of data exchanged
 
-1. GET /cars
-2. `{
+**1)** GET /cars
+
+**2)** `{
  "Car1", "Car2", "Car3"
 }`
 
-3.![](requirements/drop-down-car-list.png)
-4. POST
+**3)**![](requirements/drop-down-car-list.png)
+
+**4)** POST
 `{
  "car" : "Car1", "km": "250"
 }`
-5. GET /cars/car1
-6. `{
+
+**5)** GET /cars/car1
+
+**6)** `{
  "gas_per_km": "1.7"
 }`
-7. `{
+
+**7)** `{
  "consumption": "425"
 }`
