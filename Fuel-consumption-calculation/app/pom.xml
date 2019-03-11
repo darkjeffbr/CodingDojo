@@ -5,8 +5,8 @@
 	<groupId>com.darkjeff.dojo</groupId>
 	<artifactId>fuel-consumption-parent</artifactId>
 	<version>1.0.0</version>
-	<description>Fuel consumption calculation service</description>
-    <name>Fuel Consumption Calculation Service</name>
+	<description>Parent Fuel consumption calculation service</description>
+    <name>Parent Fuel Consumption Calculation Service</name>
     <packaging>pom</packaging>
 
 	<properties>
