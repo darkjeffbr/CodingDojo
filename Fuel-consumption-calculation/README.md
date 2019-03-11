@@ -39,3 +39,11 @@ The communication flow is as follow:
 **7)** `{
  "consumption": "425"
 }`
+
+## Some useful guides
+
+- [Testing the Web Layer](https://spring.io/guides/gs/testing-web/ "Testing the Web Layer")
+- [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/ "Building a RESTful Web Service")
+- [Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/ "Consuming a RESTful Web Service")
+- [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/ "Serving Web Content with Spring MVC")
+- [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/2.1.3.RELEASE/reference/html/ "Spring Boot Reference Guide")
